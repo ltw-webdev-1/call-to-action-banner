@@ -31,7 +31,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
 - Final screenshots in the “screenshots” folder.
-- [**Watch this video to see how it interacts.**](https://youtu.be/1hK3pa8BilA)
+- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-1/call-to-action.mp4)
 
 ---
 
